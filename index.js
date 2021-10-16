@@ -10,4 +10,4 @@ runCommand(function (code) {
   process.exit(code);
 })
 
-process.on('uncaughtException', elevatorMusic.stop);
+//process.on('uncaughtException', elevatorMusic.stop);
