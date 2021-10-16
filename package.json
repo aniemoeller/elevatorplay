@@ -16,7 +16,7 @@
   "author": "Parker Shepherd",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.1.2",
+    "colors": "^1.4.0",
     "play-sound": "^1.1.3"
   }
 }
